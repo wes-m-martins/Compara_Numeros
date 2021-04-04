@@ -1,0 +1,16 @@
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\Compara_Numeros.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\Compara_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\Compara_Numeros.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\Compara_Numeros.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\Compara_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\bin\Debug\net5.0\Compara_Numeros.exe
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\bin\Debug\net5.0\Compara_Numeros.deps.json
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\bin\Debug\net5.0\Compara_Numeros.runtimeconfig.json
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\bin\Debug\net5.0\Compara_Numeros.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\bin\Debug\net5.0\Compara_Numeros.dll
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\bin\Debug\net5.0\ref\Compara_Numeros.dll
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\bin\Debug\net5.0\Compara_Numeros.pdb
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\Compara_Numeros.dll
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\ref\Compara_Numeros.dll
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\Compara_Numeros.pdb
+C:\Users\Aluno\source\repos\Compara_Numeros\Compara_Numeros\obj\Debug\net5.0\Compara_Numeros.genruntimeconfig.cache

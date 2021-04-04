@@ -6,22 +6,29 @@ namespace Compara_Numeros
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite 2 números quaisquer");
-            int num1 = 0, num2 = 0, maior;
-            num1= Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Digite 3 números quaisquer");
+            int num1 = 0, num2 = 0, num3 = 0, maior=0;
+            num1 = Convert.ToInt32(Console.ReadLine());
             num2= Convert.ToInt32(Console.ReadLine());
-            
+            num3 = Convert.ToInt32(Console.ReadLine());
+
             if (num1 > num2)
             {
-                maior = num1;
+                if (num1 > num3)
+                {
+                    maior = num1;
+                }
             }
-            else 
+            else if (num2 > num3)
             {
                 maior = num2;
             }
-            
-
-            Console.WriteLine("O maior número entre eles é"+ maior);
+            else if (num1 > num3)
+            {
+                maior = num1;
+            }
+            else maior = num3;
+            Console.WriteLine("O maior número entre eles é "+ maior);
         }
     }
 }
